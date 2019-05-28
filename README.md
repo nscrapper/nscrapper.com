@@ -1,4 +1,7 @@
 # nscrapper.com
+
+nscrapper means node-scrapper.
+
 Web Site, Documentations, Mission, Vision
 
 
